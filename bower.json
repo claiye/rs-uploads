@@ -1,0 +1,28 @@
+{
+  "name": "rs-uploads",
+  "version": "1.0.0",
+  "homepage": "https://github.com/claiye/rs-uploads",
+  "description": "Platform for uploading roots and shoots pictures",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Claire Ye"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~2.0.1",
+    "d3": "~3.5.6",
+    "handlebars": "~3.0.3",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "ember-data": "~2.0.0"
+  }
+}
